@@ -30,3 +30,6 @@ button {
 	display: table;
 	margin: 20px auto;
 }
+#return_word {
+	text-align: center;
+}
